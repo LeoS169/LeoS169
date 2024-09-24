@@ -1,4 +1,9 @@
-## Hi there 👋
+## Olá!
+Meu nome é Leonam, estou finalizando um Curso Técnico e Integrado em informática pelo IFRN
+
+Atualmente, estou trabalhando em um projeto integrador relacionado a minha instituição e as tecnologias que
+utilizamos para criação de front-end e back-end. Por causa do projeto, tenho estudado e aprimorado minhas 
+competências com HTML5, CSS3 e JavaScript.
 
 <!--
 **LeoS169/LeoS169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
