@@ -8,7 +8,7 @@
 ### Tecnologias nas quais tenho competências:
 
 
-<div style='display: inline_block'><br/>
+<div style='display: inline_block;'><br/>
     <img align='center' alt='Python' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
     <img align='center' alt='Python' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
     <img align='center' alt='Python' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
@@ -19,9 +19,14 @@
     <img align='center' alt='Python' src='https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white'>
 </div><br>
 <hr>
+<div style=''>
+    <a href='https://github.com/LeoS169'>
+        <img height='200em' src='https://github-readme-stats.vercel.app/api?username=LeoS169&show_icons=true&theme=transparent'>
+        <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LeoS169&layout=compact'>
+    </a>
+</div>
 
-
-![Leonam GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoS169&show_icons=true&theme=transparent)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoS169&layout=compact)
+<hr>
 
 ### Sobre mim:
 Sou técnico em informática e atualmente estou embarcando no desenvolvimeto Full-stack, programação orientada a banco de dados, eletrônica, machine learning e sistemas embarcados! Tenho trabalhado em projetos que precisaram da aplicação das minhas competências, como *Python*, *HTML, CSS e JavaScript*, *PostgreSQL*, *Flask*, *Interface com Flet* e a biblioteca de treinamento de redes neurais *TensorFlow*.
