@@ -20,19 +20,13 @@
 </div><br>
 <hr>
 
-![Leonam GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoS169&show_icons=true&theme=transparent)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoS169&hide_progress=false&layout=compact)
-<hr>
+
+![Leonam GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoS169&show_icons=true&theme=transparent)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoS169&layout=compact)
 
 ### Sobre mim:
-Sou estudante de informática pela IFRN, e estou me aprofundando no nicho do desenvolvimento *front-end, back-end*
-e orientado a banco de dados. Além de softwares, meu curso me possibilitou ter competências com manutenção básica
-de computadores, arquitetura de redes de computadores, **eletricidade instrumental, eletrônica analógica e digital**,
-que são as áres nas quais mais quero me desenvolver.
+Sou técnico em informática e atualmente estou embarcando no desenvolvimeto Full-stack, programação orientada a banco de dados, eletrônica, machine learning e sistemas embarcados! Tenho trabalhado em projetos que precisaram da aplicação das minhas competências, como *Python*, *HTML, CSS e JavaScript*, *PostgreSQL*, *Flask*, *Interface com Flet* e a biblioteca de treinamento de redes neurais *TensorFlow*.
 
-Atualmente, estou trabalhando em um projeto integrador relacionado a minha instituição e as tecnologias que
-utilizamos para criação de front-end e back-end. Por causa do projeto, tenho estudado e aprimorado minhas 
-competências com HTML5, CSS3 e JavaScript. Além desse projeto, tenho trabalhado em um aplicativo de conversão de
-arquivo de dadose em dashbords, usando **Python**, as bibliotecas **Pandas e Plotly** e a framework de interface gráfica **Flet**.
+Com o tempo, pretendo compartilhar mais sobre os projetos que tenho trabalhado!
 
 <!--
 **LeoS169/LeoS169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
